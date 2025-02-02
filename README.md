@@ -13,6 +13,6 @@ Relógio digital funcional com diferentes regiões para monitoramento do horári
 ## 💻 Tecnologias utilizadas
 
 - Next.js
-- TailwindCSS
+- Tailwind CSS
 - TypeScript
 - Luxon

@@ -14,3 +14,19 @@ Relógio digital funcional com diferentes regiões para monitoramento do horári
 - Tailwind CSS
 - TypeScript
 - Luxon
+
+## 🛠️ Como utilizar
+
+Instale as dependências do projeto:
+
+```bash
+npm install
+```
+
+Inicie o projeto:
+
+```bash
+npm run dev
+```
+
+Por fim, abra [http://localhost:3000](http://localhost:3000) no seu navegador.

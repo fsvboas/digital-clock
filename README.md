@@ -2,9 +2,7 @@
    Digital Clock
 </h1>
 
-<h1>
-    <img src="public/preview.gif">
-</h1>
+<img src="public/preview.gif">
 
 ## 🧾 Sobre
 
